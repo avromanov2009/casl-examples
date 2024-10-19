@@ -11,7 +11,7 @@
     "@casl/ability": "^4.0.5",
     "@casl/vue": "^1.1.0",
     "core-js": "^3.6.4",
-    "vue": "^2.6.11"
+    "vue": "^3.0.0"
   },
   "devDependencies": {
     "@types/node": "^13.13.2",
